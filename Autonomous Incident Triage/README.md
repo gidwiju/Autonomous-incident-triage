@@ -100,4 +100,6 @@ Add screenshots of the actual Langflow canvas, diagnosis output, and Prometheus 
 
 ## License
 
-No license has been specified yet. Add a license if you want others to reuse or modify this project.
+## License
+
+This project was created for learning and portfolio purposes. No open-source license has been added yet.
