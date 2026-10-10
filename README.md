@@ -23,7 +23,7 @@ An AI-assisted incident analysis project built with Langflow and Google Gemini. 
 ## Tech Stack
 
 - Langflow
-- Google Gemini
+- LLM (Large Language Model) in this project using Gemini
 - Retrieval-Augmented Generation (RAG)
 - Prometheus
 - Python
